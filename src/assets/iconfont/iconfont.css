@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1861868 */
+  src: url('//at.alicdn.com/t/font_1861868_rcpu9888teq.eot');
+  src: url('//at.alicdn.com/t/font_1861868_rcpu9888teq.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1861868_rcpu9888teq.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1861868_rcpu9888teq.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1861868_rcpu9888teq.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1861868_rcpu9888teq.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-aixin1:before {
+  content: "\e601";
+}
+
+.icon-aixin:before {
+  content: "\e85c";
+}
+
+.icon-emoji:before{
+  content: "\e7fa";
+}
+
+.icon-huojian:before{
+  content: "\e627";
+}
+
+.icon-vip:before{
+  content: "\e729";
+}
+
+.icon-success:before{
+  content: "\e617";
+}
+
+.icon-add:before{
+  content: "\e60f";
+}
+
+.icon-follow:before{
+  content: '\e610';
+}
+
